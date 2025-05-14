@@ -5,4 +5,5 @@ sqlparse==0.5.3
 cryptography==44.0.2
 PyAudio==0.2.14  # If required, leave it; if not, remove it.
 requests==2.32.3
-gunicorn==20.2.1  # Add this for running in production (on Render)
+
+gunicorn==20.1.0  # Or use the latest compatible version
